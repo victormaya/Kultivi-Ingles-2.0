@@ -1,4 +1,4 @@
-# <b>KULTIVI - IINGLÊS 2.0</b>
+# <b>KULTIVI - INGLÊS 2.0</b>
 
 Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
 
