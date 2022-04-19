@@ -11,6 +11,12 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Nome do Meio](#Nome-Do-Meio)
     - [Útimo nome](#Utimo-Nome)
     - [Dialogue](#Names-Dialogue)
+  - [NAMES 2](#NAMES2)
+    - [Nickname](#nickname)
+    - [Dialogue](#Names2-Dialogue)
+    - [Stage name](#stage-name)
+    - [Dialogue](#Names2-Dialogue-stage)
+
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -85,3 +91,55 @@ Obs:
 - Quando se pergunta um nome especifico geralmente se responde de maneira mais completa, bem gramatical.
 - Não pergunte o nome do meio.
 - Caso te perguntem o nome do meio e nao queira responder diga: "I'm sorry, I don't have one".
+
+## NAMES 2<a name="NAMES2"></a>
+
+### Nickname<a name="nickname"></a>
+
+Nickname é, resumindo, um apelido.
+
+### Dialogue<a name="Names2-Dialogue"></a>
+
+```
+A - What's your name?
+B - My name is Mark.
+
+A - Do you have a nickname?
+B - Yes. People call me Vin.
+```
+
+```
+A - What's your nickname?
+B - My nickname is Vin.
+A - What's your name?
+B - My name is Mark, but everybody calls me Vin.
+```
+
+Obs:
+
+- "People call me..." -> "As pessoas me chamam de ..."
+
+### Stage name<a name="stage-name"></a>
+
+Stage name é, resumindo, um nome artístico.
+
+### Dialogue<a name="Names2-Dialogue-stage"></a>
+
+```
+A - What's your name?
+B - My name is Mark.
+
+A - Do you have a stage name?
+B - Yes. My stage name is Vin Diesel.
+or
+B - On stage people call me Vin Diesel.
+```
+
+```
+A - What's your stage name?
+B - My name is Vin Diesel.
+A - Is Vin Diesel a stage name?
+B - Yes, it is.
+A - Is Mark Vincent tour stage name?
+B - No, it's my real name.
+```
