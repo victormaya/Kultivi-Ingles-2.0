@@ -16,7 +16,9 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Dialogue](#Names2-Dialogue)
     - [Stage name](#stage-name)
     - [Dialogue](#Names2-Dialogue-stage)
-
+  - [TITLES](#titles)
+    - [Uso dos titles](#uso-dos-titles)
+    - [Activities](#activities-titles)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -143,3 +145,28 @@ B - Yes, it is.
 A - Is Mark Vincent tour stage name?
 B - No, it's my real name.
 ```
+
+## TITLES<a name="titles"></a>
+
+Os pronomes de tratamento dependem do estado civil, ou seja, Marital Status.
+
+- Para Homem casado e solteiro é sempre "Mr." (/Mêstêr/);
+- Para Mulher casada é "Mrs." (/Mêssês/);
+- Para mulher solteira é "Miss." (/Mês/);
+- Para mulher que nao se sabe se é casada ou solteira é "Ms." (/Mêz/).
+
+Obs: Não confunda Mrs. com Mistress (/Mêstrês/), pois Mistress siginifica amante.
+
+### Uso dos titles<a name="uso-dos-titles"></a>
+
+Os titles sao usados com o último nome ou com o primeiro e o ultimo nome.
+Os titles não sao usados com o primeiro nome ou com os nomes do meio.
+
+Ex:
+
+- I am Mr. Almeida;
+- I am Mr. Victor Almeida.
+
+### Activities<a name="activities-titles"></a>
+
+http://www.eslhq.com/worksheets/preview_worksheet.php?worksheet_id=169158
