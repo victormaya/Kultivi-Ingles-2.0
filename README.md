@@ -142,7 +142,7 @@ A - What's your stage name?
 B - My name is Vin Diesel.
 A - Is Vin Diesel a stage name?
 B - Yes, it is.
-A - Is Mark Vincent tour stage name?
+A - Is Mark Vincent your stage name?
 B - No, it's my real name.
 ```
 
