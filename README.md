@@ -19,6 +19,7 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
   - [TITLES](#titles)
     - [Uso dos titles](#uso-dos-titles)
     - [Activities](#activities-titles)
+  - [THE ALPHABET](#the-alphabet)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -170,3 +171,55 @@ Ex:
 ### Activities<a name="activities-titles"></a>
 
 http://www.eslhq.com/worksheets/preview_worksheet.php?worksheet_id=169158
+
+## THE ALPHABET<a name="the-alphabet"></a>
+
+```
+A - ÊI
+B - BÍ
+C - CÍ
+D - DÍ
+E - Í
+F - ÉF
+G - DGÍ
+H - ÊIDJ
+I - ÁI
+J - DJÊI
+K - KÊI
+L - ÉL
+M - ÊM
+N - ÊN
+O - ÔU
+P - PI
+Q - KÍU
+R - ÁR
+S - ÉS
+T - TÍ
+U - IÚU
+V - VÍ
+W - DÂBOUL. IÚU
+X - ÉKS
+Y - UÁI
+Z - ZÍ
+```
+
+Obs:
+
+- Não confundir:
+
+```
+A - ÊI and E - Í
+I - ÁI and Y - UÁI
+D - DÍ and G - DGÍ
+H - ÊIDJ and J - DJÊI
+M - ÊM and N - ÊN
+```
+
+- Com certeza você já usou:
+
+```
+DJ - DÍ DJÊI
+OK - ÔU KÊI
+USA - IÚU ÉS ÊI
+X-MEN - ÉKS
+```
