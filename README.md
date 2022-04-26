@@ -20,6 +20,9 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Uso dos titles](#uso-dos-titles)
     - [Activities](#activities-titles)
   - [THE ALPHABET](#the-alphabet)
+  - [SPELLING](#spelling)
+    - [Dialogue](#Spelling-Dialogue)
+    - [Activities](#activities-spelling)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -223,3 +226,121 @@ OK - ÔU KÊI
 USA - IÚU ÉS ÊI
 X-MEN - ÉKS
 ```
+
+## SPELLING<a name="spelling"></a>
+
+Vamos analisar esta frase com atenção:
+
+```
+THE   QUICK   BROWN   FOX   JUMPS   OVER   THE   LAZY   DOG.
+```
+
+Esta frase diz:
+
+"A RAPOSA RÁPIDA E MARROM PULA POR CIMA DO CACHORRO PREGUIÇOSO."
+
+E ela contém TODAS as letras do alfabeto
+
+Soletrando:
+
+```
+THE: TÍ - ÊIDJ - Í
+QUICK: KÍU - IÚU - ÁI - CÍ - KÊI
+BROWN: BÍ - ÁR - OU - DÂBOUL. IÚU - ÊN
+FOX: ÉF - ÔU - ÉKS
+JUMPS: DJÊI - IÚU - ÊM - PÍ - ÉS
+OVER: ÔU - VÍ - Í - ÁR
+THE: TÍ - ÊIDJ - Í
+LAZY: ÉL - ÊI - ZÍ - UÁI
+DOG: DÍ - ÔU - DGI
+
+```
+
+### Dialogue<a name="Spelling-Dialogue"></a>
+
+```
+How do you spell your last name?
+
+How do you spell it (that)?
+
+How do you spell "Ventura"?
+```
+
+```
+Can you spell your last name please?
+
+Can you spell it (that) please?
+
+Can you spell "Ventura" plase?
+```
+
+```
+Could you spell your last name please?
+
+Could you spell it (that) please?
+
+Could you spell "Ventura" please?
+```
+
+```
+A - What's your name please?
+B - It's Jacqueline Bisset.
+A - How do you spell Jacqueline?
+B - It's J-A-C-Q-U-E-L-I-N-E.
+A - What's your last name again?
+B - My last name is Bisset.
+A - Right, how do you spell it?
+B - that's B-I-S-S-E-T.
+```
+
+Obs:
+
+Para letras dobradas usa-se "double"
+
+```
+B-I-S-S-E-T
+BÍ - A - ÉS - ÉS - Í - TÍ
+BÍ - A - DOUBLE "ÉS" - Í - TÍ
+```
+
+### Activities<a name="activities-spelling"></a>
+
+Here are some names for you to rpactive your spelling
+
+- Milla Jovovich
+- Amanda Seyrfried
+- Charlize Theron
+- Zach Galifianakis
+- Matthew McConaughey
+- Joaquin Phoenix
+- Arnold Schwarzenegger
+
+Obs: 
+
+Ao soletrar nomes compostos inicie o segundo nome em diante indicando que as letras são maiúsculas usando Capital(KEPIRÓU), se não fizer isto provavelmente a pessoa entenderá como uma palavra só.
+
+Exemplo:
+
+```
+Victor Maya
+```
+
+Se você soletrar
+
+```
+ví - ái - cí - tí - ôu - ár - êm - êi - uái - êi
+```
+
+A pessoa escreverá
+
+```
+Victormaya
+```
+
+Então diga:
+
+```
+ví - ái - cí - tí - ôu - ár - Capital êm - êi - uái - êi
+```
+
+Assim a pessoa escreverá corretamente.
