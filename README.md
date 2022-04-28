@@ -23,6 +23,7 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
   - [SPELLING](#spelling)
     - [Dialogue](#Spelling-Dialogue)
     - [Activities](#activities-spelling)
+  - [GREETINGS 1](#greetings1)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -315,7 +316,7 @@ Here are some names for you to rpactive your spelling
 - Joaquin Phoenix
 - Arnold Schwarzenegger
 
-Obs: 
+Obs:
 
 Ao soletrar nomes compostos inicie o segundo nome em diante indicando que as letras são maiúsculas usando Capital(KEPIRÓU), se não fizer isto provavelmente a pessoa entenderá como uma palavra só.
 
@@ -344,3 +345,32 @@ ví - ái - cí - tí - ôu - ár - Capital êm - êi - uái - êi
 ```
 
 Assim a pessoa escreverá corretamente.
+
+## GREETINGS 1<a name="greetings1"></a>
+
+(+ SAYING GOOD BYE)
+
+```
+Hi!
+Hello!
+(usually comes with a wave)
+
+Good morning!
+Good afternoon! (/Gurefternún/)
+Good evening! (/Gurivinén/)
+```
+
+Ao dar tchau:
+
+```
+Good night!
+Bye!
+Good bye!
+Bye bye!
+So long! (ate logo) 
+See you!
+See you later! (vejo voce mais tarde)
+see you soon! (vejo voce em breve)
+See you tomorrow! (vejo voce amanha)
+Take care! (se cuida)
+```
