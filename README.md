@@ -24,6 +24,11 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Dialogue](#Spelling-Dialogue)
     - [Activities](#activities-spelling)
   - [GREETINGS 1](#greetings1)
+  - [GREETINGS 2](#greetings2)
+    - [Possible questions](#possiblequestionsgreetings2)
+    - [Possible answers](#possibleanswersgreetings2)
+    - [Ask again](#askagaingreetings2)
+    - [Other questions](#otherquestionsgreetings2)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -367,10 +372,66 @@ Good night!
 Bye!
 Good bye!
 Bye bye!
-So long! (ate logo) 
+So long! (ate logo)
 See you!
 See you later! (vejo voce mais tarde)
 see you soon! (vejo voce em breve)
 See you tomorrow! (vejo voce amanha)
 Take care! (se cuida)
 ```
+
+## GREETINGS 2<a name="greetings2"></a>
+
+```
+A - How are you?
+B - I'm fine. Thanks. And you?
+A - Fine thanks
+```
+
+### Possible questions<a name="possiblequestionsgreetings2"></a>
+
+```
+How are you?
+How are you doing?
+How's it going?
+How are things?
+How are things with you?
+How's life treating you?
+How have you been?
+How've you been?
+How's it hanging?
+```
+
+### Possible answers<a name="possibleanswersgreetings2"></a>
+
+```
+                        great
+          (pretty)------fine
+(I'm)     (quite)-------good                  Thanks!
+(I am)    (very)--------well                  Thank you!
+                        not bad(at all)
+                        ok
+                        not very good
+                        not very well
+```
+
+Obs: Entre "( )" são opicionais!
+
+### Ask again<a name="askagaingreetings2"></a>
+
+```
+And you?
+What about you?
+How about you?
+How are you?
+```
+
+### Other questions<a name="otherquestionsgreetings2"></a>
+
+```
+What's up?!
+How do you do?
+```
+
+Obs: ambos respondem com a mesma pergunta.
+What's up tambem pode ser respondido com "No much"
