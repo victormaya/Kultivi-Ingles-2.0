@@ -29,6 +29,11 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Possible answers](#possibleanswersgreetings2)
     - [Ask again](#askagaingreetings2)
     - [Other questions](#otherquestionsgreetings2)
+  - [BASIC FAMILY TREE](#basicfamilytree)
+    - [Father and Brother](#father-brother)
+    - [Mother and Sister](#mother-sister)
+    - [Parents and Sibling](#parents-sibilings)
+    - [Activities](#activities-titles)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -435,3 +440,73 @@ How do you do?
 
 Obs: ambos respondem com a mesma pergunta.
 What's up tambem pode ser respondido com "No much"
+
+## BASIC FAMILY TREE<a name="basicfamilytree"></a>
+
+```
+FATHER                           MOTHER
+ Rui                             Sueli
+  |--------------------------------|
+                   |
+                   |
+  |--------------------------------|
+ BROTHER           |             SISTER
+ Alex             Rui           Veronica
+```
+
+### Father and Brother<a name="father-brother"></a>
+
+```
+What is his name?
+His name is Rui.
+ou
+It's Rui.
+ou
+Rui
+```
+
+### Mother and Sister<a name="mother-sister"></a>
+
+```
+What is her name?
+Her name is Sueli.
+ou
+It's Sueli.
+ou
+Sueli.
+```
+
+### Parents and Sibling<a name="parents-sibilings"></a>
+
+```
+FATHER<---------Parents--------->MOTHER
+ Rui                             Sueli
+  |--------------------------------|
+                   |
+                   |
+  |--------------------------------|
+ BROTHER           |             SISTER
+ Alex             Rui           Veronica
+  ^-----------Sibilings------------^
+```
+
+```
+What are their names?
+Their names are Rui and Sueli.
+ou
+They are Rui and Sueli.
+ou
+Rui and Sueli.
+```
+```
+What are your names?
+Our names are Alex, Rui and Veronica.
+ou
+We are Alex, Rui and Veronica.
+ou
+Alex, Rui and Veronica.
+```
+
+### Activities<a name="activities-titles"></a>
+
+https://agendaweb.org/vocabulary/family-exercises.html
