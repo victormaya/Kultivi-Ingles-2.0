@@ -33,7 +33,7 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Father and Brother](#father-brother)
     - [Mother and Sister](#mother-sister)
     - [Parents and Sibling](#parents-sibilings)
-    - [Activities](#activities-titles)
+    - [Activities](#activities-basic-family-tree)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -507,6 +507,6 @@ ou
 Alex, Rui and Veronica.
 ```
 
-### Activities<a name="activities-titles"></a>
+### Activities<a name="activities-basic-family-tree"></a>
 
 https://agendaweb.org/vocabulary/family-exercises.html
