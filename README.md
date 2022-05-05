@@ -36,6 +36,10 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Activities](#activities-basic-family-tree)
   - [BASIC FAMILY TREE 2](#basicfamilytree2)
     - [Activities](#activities-basic-family-tree2)
+  - [INTRODUCTIONS](#introductions)
+    - [You can introcude yourself.](#you-can-introcude-yourself)
+    - [Nice to meet you](#nice-to-meet-you)
+    - [You can be introduced by somebody else](#You-can-be-introduced-by-somebody-else)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -547,6 +551,7 @@ His name is Rui and her name is Sueli.
 Obs: O mesmo pra Sibilings.
 
 ---
+
 ```
 Ronnie is Vagnalda's husband.
 Vagnalda is Ronnie's wife.
@@ -561,3 +566,69 @@ My sister is my father's daughter.
 ### Activities<a name="activities-basic-family-tree2"></a>
 
 https://englisch-hilfen.de/en/exercises/family/family_tree.htm
+
+## INTRODUCTIONS<a name="introductions"></a>
+
+### You can introcude yourself.<a name="you-can-introcude-yourself"></a>
+
+```
+Hi! I am Rui Ventura.
+Hello! My name's Rui.
+```
+
+```
+A - Hi. What is your name?
+B - Hi. I'm Emma. And you are...?
+A - I'm Rui. Glad to meet you Emma!
+B - Nice to meet you (too) Rui.
+```
+
+```
+A - Hi. I'm Rui. What is your name?
+B - Hello. My name is Emma.
+A - Nice to meet you Emma!
+B - Nice to meet you (too) Rui.
+```
+
+```
+A - Hello. Pleased to meet you. My name's Rui.
+B - Hi Rui. I'm Emma. Nice to meet you too.
+```
+
+```
+A - Hi. My name is Rui. Nice to meet you.
+B - Oh. Hi Rui. I'm Emma. It's a pleasure to meet you.
+```
+
+### Nice to meet you<a name="nice-to-meet-you"></a>
+
+- Pleased to meet you.
+- Glad to meet you.
+- It's a pleasure to meet you.
+
+My pleasure. - resposta para qualquer uma das frases acima, é tipo: "o prazer é meu"
+
+How do you do? - "Como voce esta?" mas no sentido de "muito prazer" - muito formal
+
+### You can be introduced by somebody else<a name="You-can-be-introduced-by-somebody-else"></a>
+
+```
+A - Rui this is Emma.
+A - Emma this is Rui.
+B - Nice to meet you Rui.
+C - Nice to meet you (too) Emma.
+```
+
+```
+A - Rui, Emma. Emma, Rui.
+B - Hi Emma. Nice to meet you.
+C - Hello. My pleasure Rui.
+```
+
+```
+I'd like to introduce you to ---
+Let me introduce you to      --- my friend ...
+                             --- my brother ...
+                             --- my boss ...
+                             --- Jhon.
+```
