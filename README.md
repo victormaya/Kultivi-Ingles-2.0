@@ -34,6 +34,8 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [Mother and Sister](#mother-sister)
     - [Parents and Sibling](#parents-sibilings)
     - [Activities](#activities-basic-family-tree)
+  - [BASIC FAMILY TREE 2](#basicfamilytree2)
+    - [Activities](#activities-basic-family-tree2)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -498,6 +500,7 @@ They are Rui and Sueli.
 ou
 Rui and Sueli.
 ```
+
 ```
 What are your names?
 Our names are Alex, Rui and Veronica.
@@ -510,3 +513,51 @@ Alex, Rui and Veronica.
 ### Activities<a name="activities-basic-family-tree"></a>
 
 https://agendaweb.org/vocabulary/family-exercises.html
+
+## BASIC FAMILY TREE 2<a name="basicfamilytree2"></a>
+
+"What's your father's name?"
+
+Your father('s) name = Nome (do) seu pai
+
+```
+What is your father's name?
+My father's name is Rui.
+His name is Rui.
+```
+
+```
+Victor's friend.
+Amigo do Victor.
+```
+
+```
+What are your parents' names?
+My parent's names are Rui and Sueli.
+My father's name is Rui and my mother's name is Sueli.
+```
+
+Obs: Nessa questao so precisa-se o (').
+
+```
+Their names are Rui and Sueli.
+His name is Rui and her name is Sueli.
+```
+
+Obs: O mesmo pra Sibilings.
+
+---
+```
+Ronnie is Vagnalda's husband.
+Vagnalda is Ronnie's wife.
+Victor is Ronnie's son.
+Jéssica is Victor's sister.
+Jéssica is Vagnalda's daughter.
+Vagnalda is Jéssica's mother.
+Alex is my sister's brtoher.
+My sister is my father's daughter.
+```
+
+### Activities<a name="activities-basic-family-tree2"></a>
+
+https://englisch-hilfen.de/en/exercises/family/family_tree.htm
