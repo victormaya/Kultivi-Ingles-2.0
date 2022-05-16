@@ -40,6 +40,8 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [You can introcude yourself.](#you-can-introcude-yourself)
     - [Nice to meet you](#nice-to-meet-you)
     - [You can be introduced by somebody else](#You-can-be-introduced-by-somebody-else)
+  - [WHAT'S YOUR OCCUPATION?](#WHATS-YOUR-OCCUPATION?)
+    - [Activities](#activities-WHATS-YOUR-OCCUPATION?)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -632,3 +634,66 @@ Let me introduce you to      --- my friend ...
                              --- my boss ...
                              --- Jhon.
 ```
+
+## WHAT'S YOUR OCCUPATION?<a name="WHATS-YOUR-OCCUPATION?"></a>
+
+```
+A - What's your occupation?
+B - I am a teacher.
+```
+
+```
+A - What's your profession?
+B - I'm an actor.
+```
+
+```
+A - What do you do for a living?
+B - I am an engineer.
+```
+
+<br />
+<br />
+<br />
+
+```
+A - What are their occupations?
+B - They are teachers.
+```
+
+```
+A - What are their professions?
+B - John is a bellboy and tom is a busboy.
+```
+
+Obs: Bellboy: Mensageiro de hotel. | Busboy: Ajudante de garçom.
+
+```
+A - What are their professions?
+B - We are sailors.
+```
+
+Obs: Sailors: Marinheiros.
+
+```
+A - What are your professions?
+B - I am a groomer and she is a pet sitter.
+```
+
+Obs: Groomer: tosadora. | Pet sitter: babá de animais.
+
+A - antes de som de consoante:
+He is a urologist. (u com som de y)
+
+A - antes de som de vogal:
+You have a horse.(h com som de r)
+
+AN - antes de som de vogal:
+He is an hronary professor. (ho com som de o)
+
+AN - antes de som de consoante:
+I have an umbrela
+
+### Activities<a name="activities-WHATS-YOUR-OCCUPATION?"></a>
+
+https://www.cacareerzone.org/occupations/list
