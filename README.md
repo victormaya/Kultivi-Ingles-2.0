@@ -42,6 +42,8 @@ Todo documento de estudo do curso de ingles 2.0 da Kultivi no readme
     - [You can be introduced by somebody else](#You-can-be-introduced-by-somebody-else)
   - [WHAT'S YOUR OCCUPATION?](#WHATS-YOUR-OCCUPATION?)
     - [Activities](#activities-WHATS-YOUR-OCCUPATION?)
+  - [WHAT'S HER OCCUPATION?](#WHATS-HER-OCCUPATION?)
+    - [Activities](#activities-WHATS-HER-OCCUPATION??)
 
 # PERSONAL DATA<a name="PERSONAL-DATA"></a>
 
@@ -697,3 +699,39 @@ I have an umbrela
 ### Activities<a name="activities-WHATS-YOUR-OCCUPATION?"></a>
 
 https://www.cacareerzone.org/occupations/list
+
+## WHAT'S HER OCCUPATION?<a name="WHATS-HER-OCCUPATION?"></a>
+
+```
+A - Whats's his occupation?
+B - He is a butcher.
+```
+
+```
+A - What's her profession?
+B - She's a nurse.
+```
+
+```
+A - What's your father's occupation?
+B - He is a butler. / B - My father is a butler.
+```
+
+```
+A - What's your mother's profession?
+B - She's a housewife. / B - My mother is a housewife.
+```
+
+```
+A - What's your brother's occupation?
+B - He is a tailor. / B - My brother is a tailor.
+```
+
+```
+A - What's your sister's profession?
+B - She is a dancer. / B - My sister is a dancer.
+```
+
+### Activities<a name="activities-WHATS-HER-OCCUPATION?"></a>
+
+https://repositorio.unicordoba.edu.co/bitstream/handle/ucordoba/121/jobs%20occupations%20professions%20criss%20cross%20crossword%20puzzle%20vocabulary%20worksheet.pdf?sequence=6&isAllowed=y
