@@ -732,6 +732,15 @@ A - What's your sister's profession?
 B - She is a dancer. / B - My sister is a dancer.
 ```
 
+Obs:
+
+- Butcher: Açogueiro.
+- Nurse: Enfermeiro.
+- Butler: Mordomo.
+- Housewife: Dona de casa.
+- Tailor: Alfaiate.
+- Dancer: Dançarino.
+
 ### Activities<a name="activities-WHATS-HER-OCCUPATION?"></a>
 
 https://repositorio.unicordoba.edu.co/bitstream/handle/ucordoba/121/jobs%20occupations%20professions%20criss%20cross%20crossword%20puzzle%20vocabulary%20worksheet.pdf?sequence=6&isAllowed=y
